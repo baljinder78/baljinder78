@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Baljinder Singh
 
 
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning  *__MERN Stack__*
 - 👯 I’m looking for people to work with.
