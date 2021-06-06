@@ -3,10 +3,10 @@
 
 
 - 🌱 I’m currently learning  *__MERN Stack__*
-- 👯 I’m looking for people to work with.
+- 👯 I’m looking for people to work with me in Full stack technologies.
 - 💬 I would like to talk on new Technologies
 - 📫 How to reach me:I am active on Linkedin and Instagram
-- ⚡ Fun fact:  i am a good Dancer and   can design logos and edit pictures and  video editing
+- ⚡ Fun fact:  I am a good Dancer and   can design logos and edit pictures and  video editing
 
 ### Let's Connect :coffee:
 <p align="center">
